@@ -8,4 +8,4 @@ Want to have a real world 3D animated snowball fight with your favorite Goosebum
 
 https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=975173dcd0ba40f39d978c9e55ff73b3&metadata=01
 
-![Goosebumps 2](//Users/scottclampet/Desktop/goosebumps2img.png?raw=true "Snowball Fight with Slappy")
+![Goosebumps 2](/Desktop/goosebumps2img.png?raw=true "Snowball Fight with Slappy")
