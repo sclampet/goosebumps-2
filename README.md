@@ -6,4 +6,4 @@ Want to have a real world 3D animated snowball fight with your favorite Goosebum
 
 # Built entirely using Javascript, Lens Studio, and Snapchat's API
 
-https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=975173dcd0ba40f39d978c9e55ff73b3&metadata=01
+![alt text](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=975173dcd0ba40f39d978c9e55ff73b3&metadata=01)
