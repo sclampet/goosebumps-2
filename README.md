@@ -1,6 +1,5 @@
-# Goosebumps 2
-Snapchat | Sony's Goosebumps 2 Interactive 3D Advertisement
-
+# Sony's Goosebumps 2 
+Snapchat | Interactive 3D Advertisement
 
 Want to have a real world 3D animated snowball fight with your favorite Goosebumps 2 character, Slappy?! Check out the snapchat link below to see the game I was lead programmer for!
 
