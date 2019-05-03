@@ -6,8 +6,6 @@ Want to have a real world 3D animated snowball fight with your favorite Goosebum
 
 Javascript, Lens Studio, and the Snapchat API. (The source code is not available due to IP protection)
 
-## [Check Out The Game!](https://sites.sonypictures.com/spiderverse/spiderversear/)
-
-[Check it out!](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=975173dcd0ba40f39d978c9e55ff73b3&metadata=01)
+## [Check it out!](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=975173dcd0ba40f39d978c9e55ff73b3&metadata=01)
 
 ![snapcode](images/snapcode.png)
