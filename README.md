@@ -1,10 +1,12 @@
-# Sony's Goosebumps 2 
+# Sony's Goosebumps 2 Snapchat Interactive 3D Game! 
 
-## Snapchat | Interactive 3D Advertisement
+Want to have a real world 3D animated snowball fight with your favorite Goosebumps 2 character, Slappy?! I had the pleasure to collaborate directly with Sony again to develope this unique snapchat gaming experience! Scan the snapcode below to unlock the game!
 
-Want to have a real world 3D animated snowball fight with your favorite Goosebumps 2 character, Slappy?! Check out the link below to see the game I was lead programmer for! (source code is not publicly available so as to protect Sony's IP)
+## Languages and Frameworks
 
-## Built entirely using Javascript, Lens Studio, and Snapchat's API
+Javascript, Lens Studio, and the Snapchat API. (The source code is not available due to IP protection)
+
+## [Check Out The Game!](https://sites.sonypictures.com/spiderverse/spiderversear/)
 
 [Check it out!](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=975173dcd0ba40f39d978c9e55ff73b3&metadata=01)
 
